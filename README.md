@@ -1,6 +1,6 @@
 # Interferencia
 
-Alumno: Horn Lautaro
+Alumno: Guida Dylan
 
 Curso: 5to 2da aviónica
 
