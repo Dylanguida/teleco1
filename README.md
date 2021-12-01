@@ -1,9 +1,11 @@
-## Termistor
+# Micropython - Alarma
 
-### Alumno: Guida Dylan
+Alumno: Horn Lautaro
 
-### Curso: 5 2 aviónica
 
-### Materia: Adquisicion de Datos
+Curso: 5to 2da aviónica
 
-![foto](foto.png)
+
+Materia: Adquisición de Datos
+
+https://wokwi.com/arduino/projects/315016378238108225
