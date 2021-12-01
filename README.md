@@ -1,12 +1,8 @@
-# BMP180
+Ondas
+Alumno: Lautaro Horn
 
-Alumno: Guida Dylan
+Curso: 5ta 2da aviónica
 
-Curso: 5 2 aviónica
+Materia: Telecomunicaciones I
 
-Materia: Adquisición de Datos
-
-
-![1](si.png)
-![2](no.png)
-![3](probablemente.png)
+![foto](foto.png)
