@@ -1,6 +1,6 @@
 # DHT11
 
-### Alumno: Horn Lautaro
+### Alumno: Guida Dylan
 
 ### Curso: 5to 2da Aviónica
 
