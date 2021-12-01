@@ -1,6 +1,6 @@
 # Espectro
 
-Alumno: Horn Lautaro
+Alumno: Guida Dylan
 
 Curso: 5 2 aviónica
 Materia: Telecomunicaciones I
