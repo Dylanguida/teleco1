@@ -1,7 +1,6 @@
 # Electromagnetismo
 
-### Alumno: Horn Lautaro
-
+### Alumno: Guida Dylan
 ### Curso: 5°2da Avionica
 
 ### Materia: Telecomunicaciones I
