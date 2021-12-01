@@ -1,5 +1,5 @@
 Ondas
-Alumno: Lautaro Horn
+Alumno: Guida Dylan
 
 Curso: 5ta 2da aviónica
 
