@@ -1,62 +1,38 @@
-# Ondas Estacionarias
+# DHT11
 
-Alumno: Guida Dylan
+### Alumno: Horn Lautaro
 
-Curso: 5 2 aviónica
+### Curso: 5to 2da Aviónica
 
-Materia: Telecomunicaciones I
+### Materia: Adquisición de Datos
 
-## Primera prueba
+***Ejemplo 1***
 
-![F](F.gif)
-
-El nodo Nº 1 está en: 0.0
-
-El nodo Nº 2 está en: 125.0
-
-El nodo Nº 3 está en: 250.0
-
-El nodo Nº 4 está en: 375.0
-
-El nodo Nº 5 está en: 500.0
-
-El nodo Nº 6 está en: 625.0
-
-El nodo Nº 7 está en: 750.0
-
-El nodo Nº 8 está en: 875.0
-
-El nodo Nº 9 está en: 1000.0
+<img src="./img1.png">
 
 
-## Segunda prueba
+Datos:
 
-![L](L.gif)
+- 80.00 % (Humedad)
+- 26.00 °C (Grados Celsius)
 
-El nodo Nº 1 está en: 0.0
 
-El nodo Nº 2 está en: 50.0
+***Ejemplo 2***
 
-El nodo Nº 3 está en: 100.0
+<img src="./img2.png">
 
-El nodo Nº 4 está en: 150.0
 
-El nodo Nº 5 está en: 200.0
+Datos:
 
-## Tercera prueba
+- 90.00 % (Humedad)
+- 25.00 °C (Grados Celsius)
 
-![D](D.gif)
+***Ejemplo 3***
 
-El nodo Nº 1 está en: 0.0
+<img src="./img3.png">
 
-El nodo Nº 2 está en: 83.33333333333334
 
-El nodo Nº 3 está en: 166.66666666666669
+Datos:
 
-El nodo Nº 4 está en: 250.0
-
-El nodo Nº 5 está en: 333.33333333333337
-
-El nodo Nº 6 está en: 416.6666666666667
-
-El nodo Nº 7 está en: 500.0
+- 85.00 % (Humedad)
+- 30.00 °C (Grados Celsius)
