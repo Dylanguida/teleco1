@@ -1,38 +1,12 @@
-# DHT11
+# BMP180
 
-### Alumno: Guida Dylan
+Alumno: Horn Lautaro
 
-### Curso: 5to 2da Aviónica
+Curso: 5 2 aviónica
 
-### Materia: Adquisición de Datos
-
-***Ejemplo 1***
-
-<img src="./img1.png">
+Materia: Adquisición de Datos
 
 
-Datos:
-
-- 80.00 % (Humedad)
-- 26.00 °C (Grados Celsius)
-
-
-***Ejemplo 2***
-
-<img src="./img2.png">
-
-
-Datos:
-
-- 90.00 % (Humedad)
-- 25.00 °C (Grados Celsius)
-
-***Ejemplo 3***
-
-<img src="./img3.png">
-
-
-Datos:
-
-- 85.00 % (Humedad)
-- 30.00 °C (Grados Celsius)
+![1](si.png)
+![2](no.png)
+![3](probablemente.png)
