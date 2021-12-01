@@ -1,17 +1,49 @@
-# Espectro
+# Ondas
+Alumno: Horn Lautaro
 
-Alumno: Guida Dylan
+Curso: 5ta 2da aviónica
 
-Curso: 5 2 aviónica
 Materia: Telecomunicaciones I
 
-## Tabla
-| Banda         | Longitud de onda|  Frecuencia |    Uso | 
-| ------------- |:----------:| ------------: | --------:|
-| Rayos gamma      | 10pm         | >= 10^25Hz | Realizacion de tomografias estudios de Medicina Nuclear y tratamiento de ciertos tipos de cancer |
-| Rayos X      | < 10nm      |   >= 10^16  > 10^25 Hz    |   Utiles en la deteccion de enfermedades del esqueleto y para diagnosticar enfermedades de los tejidos blandos como la neumonia cancer de pulmon edema pulmonar abscesos.  |
-| Ultravioleta | < 380 nm  |   >= 8x10^14 > 3x10^16   |  Se usa en la esterilizacion de agua y alimentos en la soldadura de arco industrial para el curado fotoquimico de tintas pinturas y plasticos y para tratamientos medicos de diagnostico y terapeuticos   |
-| Visible | < 780nm |   >= 4.3x10^14 > 7.5x10^14  |  Nos permite ver los objetos que hay en el mundo. Es nuestra unica fuente de infromacion visual   |
-| Infrarrojo | < 1mm |  >= 3x10^11 > 4.3*10^14  | Se aplica en el tratamiento de las diversas condiciones de salud incluyendo dolor de espalda artritis bursitis trauma embotado la deformacion del musculo el sindrome del tunel carpiano el dolor de cuello el dolor de espalda...|
-| Microondas | < 10cm |  >= 3x10^8 > 3*10^10 | Usadas en radiodifusion prototipos de armas para la incapacitacion momentanea o permanente o radares para detectar el rango velocidad informacion meteorologica y otras caracteristicas de objetos remotos|
-| Radio | > 10cm |  >= 1x10^4 > 1x10^13 | Usos en equipos de comunicacion como walkie talkies radios comerciales La television el sistema GPS o las redes moviles|
+## Resoluciones
+## ejercicio 1:
+### A:
+‎<img src="https://render.githubusercontent.com/render/math?math=f= \frac{1}{T}=\frac{1}{1}=1\space Hz">
+
+‎<img src="https://render.githubusercontent.com/render/math?math=\lambda = \frac{C}{f} = \frac{3 \space \times 10^8 m/s}{1 Hz} = 3 \space \times 10^8 m">
+
+### B:
+‎<img src="https://render.githubusercontent.com/render/math?math=f=3 \space GHz">
+
+‎<img src="https://render.githubusercontent.com/render/math?math=\lambda = \frac{C}{f} = \frac{3 \times 10^8 m/s}{3 \times 10^9 \space 1/s} = \frac{10^8 }{10^9}m = \frac{1}{10}m">
+
+## ejercicio 2:
+### A:
+
+‎<img src="https://render.githubusercontent.com/render/math?math=\lambda = 3 \space mm">
+
+‎<img src="https://render.githubusercontent.com/render/math?math=f = \frac{C}{\lambda} = \frac{3 \times10^8 m/s}{0,003 \space m} = 100 \space Ghz">
+
+### B:
+‎<img src="https://render.githubusercontent.com/render/math?math=T = 15 us">
+
+‎<img src="https://render.githubusercontent.com/render/math?math=f=\frac{1}{T} = \frac{1}{15\mu s} = 66666,\overline{6} ">
+
+## Ejercicio 3:
+### A:
+‎<img src="https://render.githubusercontent.com/render/math?math=\lambda = 9 km">
+
+‎<img src="https://render.githubusercontent.com/render/math?math=f = \frac{C}{\lambda} = \frac{3 \times10^8 m/s}{9 \space km} = 33,\overline{3} \space Khz">
+
+‎<img src="https://render.githubusercontent.com/render/math?math=T = \frac{1}{f} = \frac{1}{33,\overline{3} \space Khz} = 30 \space \mu s">
+
+### B:
+‎<img src="https://render.githubusercontent.com/render/math?math=f = 10Khz">
+
+‎<img src="https://render.githubusercontent.com/render/math?math=T= \frac{1}{f} = \frac{1}{ 10\space Khz} = \frac{1}{10.000} = 0,0001">
+
+
+
+## Gráfico:
+
+![foto](foto.png)
