@@ -1,6 +1,6 @@
 # Micropython - MPU6050
 
-Alumno: Horn Lautaro
+Alumno: Guida Dylan
 Curso: 5to 2da aviónica
 Materia: Adquisición de Datos
 
