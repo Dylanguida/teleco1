@@ -1,39 +1,62 @@
-# Electromagnetismo
+# Ondas Estacionarias
 
-### Alumno: Guida Dylan
-### Curso: 5°2da Avionica
+Alumno: Horn Lautaro
 
-### Materia: Telecomunicaciones I
+Curso: 5 2 aviónica
 
-## Resoluciones
+Materia: Telecomunicaciones I
 
-1) 
-‎<img src="https://render.githubusercontent.com/render/math?math=f = \frac{c}{\lambda} = \frac{3\times10^8m/s}{10,6\mu m} = 28,3Tz">
+## Primera prueba
 
-‎<img src="https://render.githubusercontent.com/render/math?math=\omega= 2 \pi \times f  = 6,28\times 28,3Tz = 1,7 \times10^{14}">
+![F](F.gif)
 
-‎<img src="https://render.githubusercontent.com/render/math?math=Ez=Emax\times sin(\omega t) = 1,5 MV/m\times sin(1,7\times10^{14}) = 0,001445">
+El nodo Nº 1 está en: 0.0
 
-2)
-A)
+El nodo Nº 2 está en: 125.0
 
-La dirección es x+, ya que en ese eje la onda produce el efecto de propagación
+El nodo Nº 3 está en: 250.0
 
-B)
+El nodo Nº 4 está en: 375.0
 
-‎<img src="https://render.githubusercontent.com/render/math?math=B = \frac{E}{c} = \frac{4 \frac{V}{m}}{3\times10^8m/s} = 1,\overline{3} \times10^{-8}">
+El nodo Nº 5 está en: 500.0
 
-3) 
-‎<img src="https://render.githubusercontent.com/render/math?math=\lambda = \frac{c}{f} = \frac{3\times10^8m/s}{5.09 \times10^{14} Hz} = 5,89391 \times 10^{-7} \space m">
+El nodo Nº 6 está en: 625.0
 
-‎<img src="https://render.githubusercontent.com/render/math?math=v = \frac{1}{\sqrt{ \epsilon \mu}} = \frac{1}{\sqrt{5.84\frac{C^2}{N \times m^2}\times1\frac{N}{A^2}}} = \frac{1}{2,41} = 0,4138 \space m/s">
+El nodo Nº 7 está en: 750.0
 
-‎<img src="https://render.githubusercontent.com/render/math?math=\lambda = \frac{v}{f} = \frac{0,4138 \space m/s}{5.09 \times10^{14} Hz} = 8,129 \times 10^{-16} \space m">
+El nodo Nº 8 está en: 875.0
 
-4) 
-‎<img src="https://render.githubusercontent.com/render/math?math=\lambda = \frac{c}{f} = \frac{3\times10^8m/s}{90 MHz} = 3,\overline{3} \space m">
+El nodo Nº 9 está en: 1000.0
 
-‎<img src="https://render.githubusercontent.com/render/math?math=v = \frac{1}{\sqrt{\epsilon\mu}} = \frac{1}{\sqrt{10\frac{C^2}{N \times m^2}\times100\frac{N}{A^2}}} =\frac{1}{\sqrt{1000}} = \frac{1}{31,622} = 0,031622 ">
 
-‎<img src="https://render.githubusercontent.com/render/math?math=\lambda = \frac{v}{f} = \frac{0,031622}{90 MHz} = 3,513\times10^{-10} ">
+## Segunda prueba
 
+![L](L.gif)
+
+El nodo Nº 1 está en: 0.0
+
+El nodo Nº 2 está en: 50.0
+
+El nodo Nº 3 está en: 100.0
+
+El nodo Nº 4 está en: 150.0
+
+El nodo Nº 5 está en: 200.0
+
+## Tercera prueba
+
+![D](D.gif)
+
+El nodo Nº 1 está en: 0.0
+
+El nodo Nº 2 está en: 83.33333333333334
+
+El nodo Nº 3 está en: 166.66666666666669
+
+El nodo Nº 4 está en: 250.0
+
+El nodo Nº 5 está en: 333.33333333333337
+
+El nodo Nº 6 está en: 416.6666666666667
+
+El nodo Nº 7 está en: 500.0
